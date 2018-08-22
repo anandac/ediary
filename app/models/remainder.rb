@@ -1,0 +1,2 @@
+class Remainder < ApplicationRecord
+end
